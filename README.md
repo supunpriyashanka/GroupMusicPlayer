@@ -26,15 +26,13 @@
 - `/skip` - play next song
 - `/end` - stop music play
 
+### For Queries and support, contact [Network Hacker](https://telegram.dog/Hackerrdt)
+
 ### Deploy To Heroku</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anjana-Ma/GroupMusicPlayer)
 
-Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
+## Developers ;
 
-### Credits
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+[Bhashitha 🇱🇰](https://t.me/ImBhashitha) 
+& [supun priyashanka](https://t.me/Supun_priyashanka)
